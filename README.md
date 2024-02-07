@@ -1,6 +1,8 @@
 # Loot Table changes for SkyBlock with Create
 
-The following mobs have changed loot tables:
+Any feedback, ideas or suggestions are welcome. Please open an issue or a pull request.
+
+# Loot changes
 
 ## Husks
 
