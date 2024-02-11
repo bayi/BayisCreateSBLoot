@@ -28,7 +28,7 @@ Drops Ancient debiris (only if killed by player)
 
 ### Junk
 
-Addee the following items:
+Added the following items:
 - Kelp
 - Sugar cane
 
