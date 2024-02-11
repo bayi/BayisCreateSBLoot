@@ -24,4 +24,12 @@ Now drop all variants for coral
 
 Drops Ancient debiris (only if killed by player)
 
+## Fishing
+
+### Junk
+
+Addee the following items:
+- Kelp
+- Sugar cane
+
 (WIP)
