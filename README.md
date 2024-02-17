@@ -8,7 +8,7 @@ Any feedback, ideas or suggestions are welcome. Please open an issue or a pull r
 
 Added the following items:
 - Sand
-- Zinc ingot
+- Zinc nugget
 
 ## Zombies
 
