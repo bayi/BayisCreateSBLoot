@@ -13,7 +13,6 @@ Added the following items:
 ## Zombies
 
 Added the following items:
-- Gravel
 - Andesite
 
 ## Tropical Fish
@@ -31,5 +30,6 @@ Drops Ancient debiris (only if killed by player)
 Added the following items:
 - Kelp
 - Sugar cane
+- Sea pickle
 
 (WIP)
