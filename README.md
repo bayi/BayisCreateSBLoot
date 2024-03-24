@@ -31,5 +31,6 @@ Added the following items:
 - Kelp
 - Sugar cane
 - Sea pickle
+- Pointed dripstone
 
 (WIP)

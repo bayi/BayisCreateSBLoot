@@ -148,6 +148,11 @@
           "type": "minecraft:item",
           "name": "minecraft:sea_pickle",
           "weight": 10
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pointed_dripstone",
+          "weight": 5
         }
       ],
       "rolls": 1.0
