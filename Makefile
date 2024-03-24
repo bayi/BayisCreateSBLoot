@@ -11,4 +11,4 @@ clean:
 	@printf "\e[32m [**]   Cleaning up...\e[m\n"
 	@rm -f ${TARGET}
 
-.PHONY: all zip
+.PHONY: all $(TARGET) zip
