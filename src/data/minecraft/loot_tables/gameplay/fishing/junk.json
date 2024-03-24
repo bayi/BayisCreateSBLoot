@@ -152,7 +152,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:pointed_dripstone",
-          "weight": 5
+          "weight": 10
         }
       ],
       "rolls": 1.0
